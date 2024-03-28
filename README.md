@@ -3,10 +3,10 @@ This a repository that contains ready-to-run autonomous racing packages for the 
 
 Below is a demo of the car running the code from this repository in the halle at the Technical University of Munich.
 
-<video width="320" height="240" controls>
+<video width="8000" controls>
   <source src="media/VID_20240328_221217.mp4" type="video/mp4">
 </video>
 
 
 ## Software Stack Overview
-<img src="/media/rrt_stanley_algorithm.png?raw=true" width="320"/>
+<img src="/media/rrt_stanley_algorithm.png?raw=true" width="800"/>
