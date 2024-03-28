@@ -3,9 +3,7 @@ This a repository that contains ready-to-run autonomous racing packages for the 
 
 Below is a demo of the car running the code from this repository in the halle at the Technical University of Munich.
 
-<video width="8000" controls>
-  <source src="media/VID_20240328_221217.mp4" type="video/mp4">
-</video>
+<video src="media/VID_20240328_221217.mp4?raw=true" width="800"/>
 
 
 ## Software Stack Overview
